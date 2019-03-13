@@ -10,7 +10,7 @@ https://takvr.github.io/sha-JavaScript/index.html
 Homework: 
 
 Create a webpage with an empty body. Using JS append an h1 title, 2 paragraphs
-and between these 2 paragraphs an unordered list (<ul>), with 5 items.
+and between these 2 paragraphs an unordered list ( <ul> ), with 5 items.
 Try not to repeat your self (DRY). You can freely choose your content.
   
 Create a webpage (check the bootstrap examples for insperation and/or usage)
