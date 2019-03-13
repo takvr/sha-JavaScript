@@ -44,7 +44,6 @@ div.appendChild(pTag1);
 let ulTag = document.createElement('ul');
 
 const myList = function (list) {
-
   for (let i = 0; i < list.length; i++) {
     let liTag = document.createElement('li');
     liTag.innerHTML = list[i];
