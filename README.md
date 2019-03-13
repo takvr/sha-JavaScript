@@ -5,6 +5,8 @@ This is a homework for Social Hackers Academy in JavaScript lesson.
 https://takvr.github.io/sha-JavaScript/index.html
 
 
+
+
 Homework: 
 
 Create a webpage with an empty body. Using JS append an h1 title, 2 paragraphs
