@@ -18,7 +18,7 @@
   margin-top: 50px;
 }
 
-#my-btn:hover {
+button:hover {
   cursor: pointer;
   width: 160px;
 }
