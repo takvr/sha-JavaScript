@@ -20,6 +20,7 @@
 
 #my-btn:hover {
   cursor: pointer;
+  width: 160px;
 }
 
 h1 {
